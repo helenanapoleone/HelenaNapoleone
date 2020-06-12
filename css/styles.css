@@ -16,7 +16,7 @@
   --purple: #6f42c1;
   --pink: #e83e8c;
   --red: #dc3545;
-  --orange: #bd5d38;
+  --orange: #084d6e;
   --yellow: #ffc107;
   --green: #28a745;
   --teal: #20c997;
@@ -6098,7 +6098,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  background-color: #084d6e !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6226,7 +6226,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #bd5d38 !important;
+  border-color: #084d6e !important;
 }
 
 .border-secondary {
@@ -9800,7 +9800,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #084d6e !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
