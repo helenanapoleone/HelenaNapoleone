@@ -69,9 +69,11 @@ body {
   background-color: #fff;
 }
 
-.bg-image {
-  background: url('assets\img\background.jpg');
-}
+body {
+  background-image: url("https://static.tumblr.com/743a26da2b89f72198339ff19e0fea20/gmtbo0y/mOPntvtnu/tumblr_static_ag62d8iqevc40840woocw8cgw.png");
+  background-color: #cccccc;
+  background-size: cover;
+ }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
@@ -10067,9 +10069,9 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    max-width: 12rem;
+    max-height: 12rem;
+    border: 0.5rem solid rgba(246, 218, 247, 0.397);
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -10137,5 +10139,6 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+
 
 }
